@@ -1,0 +1,12 @@
+mongodb+srv://Avdhoot:test123@cluster0.wqy0i7n.mongodb.net/Whatsapp-clone?retryWrites=true&w=majority
+pusher details:
+1498702
+e0bbae6bd53b5c5062c3
+409e7c872a8a6d146ae6
+firebase config:
+AIzaSyANTNay5L341nGRwvZvr_DR2OhIWfJHvH4
+whatsapp-clone-1371c
+whatsapp-clone-1371c.appspot.com
+160995441388
+1:160995441388:web:60f9ec8dc04d6de3b143c9
+e0bbae6bd53b5c5062c3
